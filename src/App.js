@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Emorris Project 4 react App</h1>
+        <h1>Emilemorris Project 4 react App</h1>
       </header>
     </div>
   );
